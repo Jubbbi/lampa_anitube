@@ -1,0 +1,238 @@
+        "Закрити" : function() {
+                $(this).dialog("close");
+            }
+               }
+    });
+});
+}
+</script>
+<div id="baner2" title="Код нашої кнопки" style="display:none;">
+<textarea style="width: 250px; height: 120px;"><a href="https://anitube.in.ua/" target="_blank"><img src="/anitube88x31.gif" alt="AniTube" title="AniTube - аніме та манґа онлайн українською" border="0" width="88" height="31" /></a></textarea>
+</div>
+<script type="text/javascript">
+function baner3() {
+$(function(){
+
+    $('#baner3').dialog({
+        autoOpen: true,
+        show: 'fade',
+        hide: 'slide',
+        width: 490,
+                buttons: {
+            "Закрити" : function() {
+                $(this).dialog("close");
+            }
+               }
+    });
+});
+}
+</script>
+<div id="baner3" title="Підтримай розвиток проекту" style="display:none;">
+<img src="/templates/AniTubenew/images/wmpney.jpg" height="263" alt="Підтримай розвиток проекту">
+
+<br> <br>
+<p style="text-align: center;"><b>Підтримайте сайтик на коффі:</b></p><br>
+<p style="text-align: center;"> <a href="https://www.buymeacoffee.com/anitube" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" style="height:34px !important;"></a>
+</p> 
+<br>
+<br>
+<div>&nbsp;&nbsp;
+Любий глядачу, ми знаємо, як тобі подобаться аніме. Та наша волонтерська праця — вклад, який не приносить прибутку, всі знають. Тож ми будемо щиро вдячні отримати меценатську допомогу. Нам приємно знати, що ви у нас є.<br>
+</div>
+</div>
+<style>
+.box .dubsub{background:#673ab785;border-radius:3px;-moz-border-radius:3px;-o-border-radius:3px;-webkit-border-radius:3px;border:1px solid #b68ffd;width:25px;box-shadow:inset 0 0 1px #fff;-moz-box-shadow:inset 0 0 1px #fff;-o-box-shadow:inset 0 0 1px #fff;-webkit-box-shadow:inset 0 0 1px #fff;color:#fff;font-weight:700;cursor:pointer;display:inline-block;height:23px;line-height:24px;margin:0 3px;outline:0;overflow:visible;padding:0 10px;text-align:center;text-decoration:none;text-shadow:0 1px 1px #8c58ec;transition:background-color .25s linear;-moz-transition:background-color .25s linear;-o-transition:background-color .25s linear;-webkit-transition:background-color .25s linear;vertical-align:top}
+
+</style>
+<style>
+  .mwrating{width:100%;height:15px}
+.wmminus,.wmplus{width:37.6%;height:15px}
+.mwrat{width:42px;height:100%}
+.wmminus,.mwrat,.wmplus{display:inline-block;float:left;text-align:center;line-height:15px;position:relative}
+.wmminus a{transition:all .2s;display:block;position:absolute;top:0;left:0;width:100%;text-align:center;background:#ff6161;font-family:'Tahoma';font-size:24px;font-weight:400;color:#fff!important;opacity:.5}
+.wmplus a{transition:all .2s;display:block;position:absolute;top:0;left:0;width:100%;height:100%;text-align:center;background:#81be5d;font-family:'Tahoma';font-size:17px;font-weight:700;color:#fff!important;opacity:.5}
+.wmminus a:hover,.wmplus a:hover{text-decoration:none;text-shadow:0 0 5px #fff;opacity:1}
+.wmminus a:active,.wmplus a:active{opacity:.5}
+.info_c a{font-size:12px;margin-bottom:2px;border:1px solid #f1f1f1;border-bottom-color:#e0e0e0;border-left-color:#e1e1e1;border-right-color:#e1e1e1;min-width:118px;height:28px;text-decoration:unset;text-shadow:none;font-weight:700;color:#91b6c9;padding:4px 5px 3px;background:#fff url(../images/fbutton.png) repeat-x 0 100%;text-transform:uppercase;transition-duration:.5s}
+.mwrat{background:#f5f5f5;font-family:'Arial';font-weight:600;font-size:14px;text-shadow:0 1px 1px #fff}
+.lc_bb_panel{background:#e0e0eb url(/templates/AniTubenew/bbcodes/bg.gif) repeat;border-top:1px solid #ccc;margin:0}
+.lc_bb_panel:after{clear:both;display:block;content:""}
+.lc_bb_panel li{float:left;cursor:pointer;width:20px;height:25px;text-indent:-10000px;padding:0;background-position:50% 50%}
+.lc_bb_b{background:url(/templates/AniTubenew/bbcodes/b.gif) no-repeat}
+.lc_bb_i{background:url(/templates/AniTubenew/bbcodes/i.gif) no-repeat}
+.lc_bb_u{background:url(/templates/AniTubenew/bbcodes/u.gif) no-repeat}
+.lc_bb_s{background:url(/templates/AniTubenew/bbcodes/s.gif) no-repeat}
+.lc_bb_emo{background:url(/templates/AniTubenew/bbcodes/emo.gif) no-repeat}
+.lc_bb_leech{background:url(/templates/AniTubenew/bbcodes/link.gif) no-repeat}
+.lc_bb_image{background:url(/templates/AniTubenew/bbcodes/image.gif) no-repeat}
+.lc_bb_color{background:url(/templates/AniTubenew/bbcodes/color.gif) no-repeat}
+.lc_bb_video{background:url(/templates/AniTubenew/bbcodes/youtube.gif) no-repeat}
+.lc_bb_quote{background:url(/templates/AniTubenew/bbcodes/quote.gif) no-repeat}
+li.lc_bb_sep{width:5px;background:url(/templates/AniTubenew/bbcodes/brkspace.gif) no-repeat;cursor:default}
+.lc_chat_timeout_descr img{width:170px}
+.tag-icons{float:left;font-size:12px;overflow:hidden;font-weight:400;padding:0 0 0 18px;margin:0 10px 0 0}
+.ico-site{background:#fff url(/templates/AniTubenew/images/arrow_25.png) no-repeat 0 center}
+.ico-telegram{background:#fff url(/templates/AniTubenew/images/arrow_26.png) no-repeat 0 center}
+.ico-facebook{background:#fff url(/templates/AniTubenew/images/arrow_27.png) no-repeat 0 center}
+.ico-youtube{background:#fff url(/templates/AniTubenew/images/arrow_28.png) no-repeat 0 center}
+.ico-patreon{background:#fff url(/templates/AniTubenew/images/arrow_31.png) no-repeat 0 center}
+.ico-buymeacoffee{background:#fff url(/templates/AniTubenew/images/arrow_32.png) no-repeat 0 center}
+.mfp-fade.mfp-bg{opacity:0;-webkit-transition:all .15s ease-out;-moz-transition:all .15s ease-out;transition:all .15s ease-out}
+.mfp-fade.mfp-bg.mfp-ready{opacity:.8}
+.mfp-fade.mfp-bg.mfp-removing{opacity:0}
+.mfp-fade.mfp-wrap .mfp-content{opacity:0;-webkit-transition:all .15s ease-out;-moz-transition:all .15s ease-out;transition:all .15s ease-out}
+.mfp-fade.mfp-wrap.mfp-ready .mfp-content{opacity:1}
+.mfp-fade.mfp-wrap.mfp-removing .mfp-content{opacity:0}
+pre{padding:1em;margin:.5em 0;max-height:200px;background:#f5f2f0;overflow:auto}
+#who-rated li.ratingLog-liminus .rated-is{color:#ba3636}
+#who-rated li.ratingLog-liplus .rated-is{color:#3caa00}
+#who-rated li .rated-is{position:absolute;left:0;top:4px;width:22px;height:22px;line-height:18px;text-align:center}
+#who-rated li.ratingLog-liplus .rated-is{color:#3caa00}
+#who-rated .icon{display:inline-block;width:16px;height:16px;fill:currentcolor;vertical-align:middle;position:relative}
+.mfp-content .clrfix{box-shadow:0 0 0 6px #fffefe2e;border:1px solid #e6e6e6;border-color:rgba(0,0,0,0.1)}
+.ratingLog li:nth-child(2n){background-color:#fafbff}
+#who-rated li.ratingLog-listars .rated-is{font-weight:700;top:5px!important}
+#who-rated span.rated-is-plus{color:#3caa00;top:-2px;position:relative}
+#who-rated span.rated-is-minus{color:#ba3636;top:-2px;position:relative}
+#who-rated li{font:normal 11px/22px Verdana;color:#666;cursor:pointer;border-radius:2px;position:relative}
+#rated-list li{padding:4px 0 4px 53px}
+#rate-profile-stats li{padding:4px 0 4px 23px}
+#who-rated ul li:hover{color:#89bdff;background-color:#f5f5f8}
+#who-rated li .rated-date{position:absolute;right:6px;top:4px;font:normal 10px/22px Tahoma;color:#999}
+#who-rated .ratingLog-liplus a{overflow:hidden;white-space:nowrap;text-overflow:ellipsis;display:block;width:360px}
+#who-rated .ratingLog-liminus a{overflow:hidden;white-space:nowrap;text-overflow:ellipsis;display:block;width:360px}
+#who-rated li img{position:absolute;left:24px;top:4px;height:22px;width:22px;border-radius:1px}
+.mfp-content .clrfix{border-radius:5px}
+#rated-list-nav{width:100px;margin:0 auto;height:20px}
+#rated-list-nav li{font-size:20px;font-weight:700;cursor:pointer}
+#rated-list-nav li.disabled{color:#AAA}
+#rated-list-nav li:nth-child(1){float:left}
+#rated-list-nav li:nth-child(2){float:right}
+#who-rated .ratingLog-userbox-user{height:60px;padding:10px 50px 10px 5px;border-bottom:1px dotted #ddd;font:normal 16px/25px 'Roboto Condensed',sans-serif;position:relative}
+#who-rated .ratingLog-userbox-user div.stars-block{display:inline-block;margin-left:10px}
+#who-rated .ratingLog-userbox-user div.stars-block:first-child{margin-left:0}
+#who-rated .ratingLog-userbox-user img{height:60px;margin:0 10px 0 0;float:left;border-radius:3px}
+#who-rated .ratingLog-userbox-close{position:absolute;right:12px;top:50%;margin-top:-10px;width:19px;height:19px;opacity:.7;cursor:pointer}
+#who-rated .ratingLog-userbox ul{max-height:300px;overflow:auto}
+.comm-rate-text{text-decoration:none;display:block;overflow:hidden;white-space:nowrap;text-overflow:ellipsis;max-width:360px}
+    </style>
+<script type="text/javascript">
+        function baner7() {
+            $(function() {
+
+                $('#baner7').dialog({
+                    autoOpen: true,
+                    show: 'fade',
+                    hide: 'slide',
+                    width: 550,
+                    buttons: {
+                        "Закрити": function() {
+                            $(this).dialog("close");
+                        }
+                    }
+                });
+            });
+        }
+    </script>
+<div id="baner7" title="Збір коштів на модуль рецензій" style="display:none; color:#454545;">
+<ul style="margin: 0px; padding: 10px;">
+<script>
+                jQuery(document).ready(function() {
+                    $("select.flexselect").flexselect();
+                });
+            </script>
+<center><img src>
+<div class="progress-bar" data-percentage="50">
+<div class="red bar"><span></span></div>
+<div class="label"></div>
+</div>
+<p style="font-size: 14px;">Привіт,</p>
+<div>&nbsp;&nbsp;<br>
+</div>
+</center>
+</ul>
+</div>
+<div id="carousel">
+<ul>
+<li></li>
+</ul>
+</div>
+<script src="/engine/lazydev/dle_search/lib/dle_search.js.php"></script>
+<script src="/templates/AniTubenew/lazydev/dle_search/assets/dle_search.js?v=6"></script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "url": "https://anitube.in.ua/",
+  "potentialAction": {
+    "@type": "SearchAction",
+    "target": "https://anitube.in.ua/index.php?do=search&subaction=search&story={search_term}",
+    "query-input": "required name=search_term" }
+}
+</script>
+
+<script>
+        (function(i, s, o, g, r, a, m) {
+            i['GoogleAnalyticsObject'] = r;
+            i[r] = i[r] || function() {
+                (i[r].q = i[r].q || []).push(arguments)
+            }, i[r].l = 1 * new Date();
+            a = s.createElement(o),
+                m = s.getElementsByTagName(o)[0];
+            a.async = 1;
+            a.src = g;
+            m.parentNode.insertBefore(a, m)
+        })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+        ga('create', 'UA-43267867-1', 'anitube.in.ua');
+        ga('send', 'pageview');
+    </script>
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-ZVBHZVEFPN"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-ZVBHZVEFPN');
+</script>
+<meta name="msvalidate.01" content="037FA1260AC4D34234CAF6F2E160CDB0" />
+<script type="text/javascript">
+        $(document).ready(function() {
+            $("table.userstop").xcolor();
+        });
+    </script>
+
+<script type="text/javascript">
+        $(document).ready(function() {
+            $("table.userstop").xcolor();
+        });
+    </script>
+<link rel="stylesheet" type="text/css" href="/templates/AniTubenew/css/engine.css?v=2" />
+<link rel="stylesheet" href="https://anitube.in.ua/templates/AniTubenew/css/magnific-popup.css">
+<link rel="stylesheet" type="text/css" href="/templates/AniTubenew/css/flexselect.css" />
+<link rel="stylesheet" type="text/css" href="/templates/AniTubenew/css/rrssb.css" />
+<script type="text/javascript"> 
+    $(document).ready(function() {
+        $('.rollover').magnificPopup({
+ 		disableOn: 700,
+		type: 'iframe',
+		mainClass: 'mfp-fade',
+		removalDelay: 160,
+		preloader: false,
+		fixedContentPos: false
+        });
+      });    
+</script>
+<script src="/templates/AniTubenew/js/jquery.magnific-popup.min.js"></script>
+<script type="text/javascript" src="/templates/AniTubenew/js/slider.js"></script>
+<script type="text/javascript" src="/templates/AniTubenew/js/scripts.js"></script>
+<script type="text/javascript" src="/templates/AniTubenew/js/jcarousellite.js"></script>
+<script type="text/javascript" src="/templates/AniTubenew/js/jquery.carouFredSel-5.2.3.js"></script>
+<script type="text/javascript" src="/templates/AniTubenew/js/liquidmetal.js"></script>
+<script type="text/javascript" src="/templates/AniTubenew/js/jquery.flexselect.js"></script>
+<script type="text/javascript" src="/templates/AniTubenew/js/jquery-migrate-1.2.1.js"></script>
+<script src="/templates/AniTubenew/lazydev/dle_subscribe/assets/dle_subscribe_js.js?v=1"></script>
+</body>
+</html>
